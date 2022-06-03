@@ -1,0 +1,11 @@
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\bin\Debug\Lab4_test2.exe.config
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\bin\Debug\Lab4_test2.exe
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\bin\Debug\Lab4_test2.pdb
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.csproj.AssemblyReference.cache
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.csproj.SuggestedBindingRedirects.cache
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.Form1.resources
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.Properties.Resources.resources
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.csproj.GenerateResource.cache
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.csproj.CoreCompileInputs.cache
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.exe
+D:\Study\KiII\Crypto\TH\Lab4_test2\Lab4_test2\obj\Debug\Lab4_test2.pdb
