@@ -1,0 +1,3 @@
+# HashCalc
+Dùng cho tính toán các mã Hash: MD5, SHA1...
+#Đây chỉ là bản demo nên chưa có tính năng đọc cho các file bin hay các file bất kỳ ( chỉ mới dùng ở mức độ file txt)
